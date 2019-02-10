@@ -18,6 +18,7 @@ echo 'ahmad';
         <li style="margin-bottom: 10px"><a href="ch4.php"> chapter 4</a></li>
         <li style="margin-bottom: 10px"><a href="ch5.php"> chapter 5</a></li>
         <li style="margin-bottom: 10px"><a href="ch6.php"> chapter 6</a></li>
+        <li style="margin-bottom: 10px"><a href="ch7.php"> chapter 7</a></li>
     </ul>
 
 
